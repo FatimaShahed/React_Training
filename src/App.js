@@ -11,7 +11,6 @@ function App() {
             <LogButtonClicks/>,
 
             <h1>UseMemo Example</h1>
-
             <UseMemo/>,
             <h1>UseCallback Example</h1>
 
